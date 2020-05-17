@@ -1,5 +1,5 @@
 # stock-analysis
-Module 2
+Explore green energy stock performance by analyzing financial data using **VBA**.
 
 ## Steps
 Create a **VBA macro** that can trigger *pop-ups and inputs, read and change cell values, and format cells*. <br>
